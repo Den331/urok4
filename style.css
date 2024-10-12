@@ -1,0 +1,13 @@
+table, th, td{
+    border: 1px solid black;
+    padding: 3px;
+    border-collapse: collapse;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin: 10px;
+    padding: 10px;
+    color: aliceblue;
+}
